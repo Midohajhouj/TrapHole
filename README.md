@@ -1,5 +1,4 @@
-<img src="https://emoji.discord.st/emojis/trapped.svg" width="30"> **TrapHole**  (Prototype)
-**Next-Gen Deception Environment for Threat Intelligence**
+ **TrapHole**  (Prototype) **Next-Gen Deception Environment for Threat Intelligence**
 
 **v1.0 | PROOT | MULTI-VECTOR TRAPS | THREAT INTEL API**
 
